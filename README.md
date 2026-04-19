@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="logo.png" alt="Costel I." width="175" /><br/><br/>
-
 <img src="banner.svg" alt="Costel I. — DevOps & Cloud" width="860" />
 
 <br/>
