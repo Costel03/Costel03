@@ -2,7 +2,7 @@
 
 <img src="logo.svg" alt="Costel I." width="175" /><br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=540&lines=Hey+there%2C+I%27m+Costel+I.+%F0%9F%91%8B;DevOps+%26+Cloud+Enthusiast+%E2%98%81%EF%B8%8F;UTM+Informatica+ID+Student+%F0%9F%8E%93;Kubernetes+%7C+GitOps+%7C+Automation+%F0%9F%9A%80)](https://git.io/typing-svg)
+<img src="banner.svg" alt="Costel I. — DevOps & Cloud" width="860" />
 
 <br/>
 

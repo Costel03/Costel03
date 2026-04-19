@@ -90,13 +90,13 @@
   <circle cx="70.1"   cy="200"   r="3.2" fill="#3d8bdb" opacity="0.7"/>
   <circle cx="135.05" cy="87.5"  r="3.2" fill="#3d8bdb" opacity="0.7"/>
 
-  <!-- ── Layer 10: CI main text with glow ── -->
+  <!-- ── Layer 10: C main text with glow ── -->
   <text x="200" y="210"
         font-family="'Segoe UI', 'Arial Black', Arial, sans-serif"
-        font-size="125" font-weight="900"
+        font-size="165" font-weight="900"
         fill="url(#ciG)"
         text-anchor="middle" dominant-baseline="middle"
-        filter="url(#bigGlow)" letter-spacing="-2">CI</text>
+        filter="url(#bigGlow)">C</text>
 
   <!-- ── Layer 11: Divider ── -->
   <line x1="148" y1="273" x2="252" y2="273" stroke="#3d8bdb" stroke-width="0.8" opacity="0.45"/>
