@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="logo.svg" alt="Costel I." width="175" /><br/><br/>
+<img src="logo.png" alt="Costel I." width="175" /><br/><br/>
 
 <img src="banner.svg" alt="Costel I. — DevOps & Cloud" width="860" />
 
@@ -47,8 +47,11 @@ fun_fact:  "I automate everything — including my free time 🤖"
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Vagrant](https://img.shields.io/badge/Vagrant-1563FF?style=for-the-badge&logo=vagrant&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
 **🖥️ Infrastructure & OS**
 
@@ -69,7 +72,7 @@ fun_fact:  "I automate everything — including my free time 🤖"
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![kubectl](https://img.shields.io/badge/kubectl-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GNU Make](https://img.shields.io/badge/GNU%20Make-A42E2B?style=for-the-badge&logo=gnu&logoColor=white)
+![Terminator](https://img.shields.io/badge/Terminator-000000?style=for-the-badge&logo=linux&logoColor=brightgreen)
 
 ---
 
