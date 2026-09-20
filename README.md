@@ -15,6 +15,9 @@
 </a>
 <img src="https://komarev.com/ghpvc/?username=Costel03&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 
+<img src="https://img.shields.io/github/followers/Costel03?style=flat-square&color=58a6ff&labelColor=0d1117&logo=github&logoColor=white" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/Costel03?style=flat-square&color=58a6ff&labelColor=0d1117&logo=github&logoColor=white" alt="Stars"/>
+
 </div>
 
 ---
@@ -56,7 +59,7 @@ fun_fact:  "I automate everything — including my free time 🤖"
 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
-![ServiceNow](https://img.shields.io/badge/ServiceNow-62D84E?style=flat-square&logo=servicenow&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-62D84E?style=flat-square&labelColor=293e40)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Notepad++](https://img.shields.io/badge/Notepad%2B%2B-90E59A?style=flat-square&logo=notepadplusplus&logoColor=black)
 ![KeePass](https://img.shields.io/badge/KeePass-6CAC4D?style=flat-square&logo=keepassxc&logoColor=white)
@@ -103,13 +106,13 @@ And a teaching tool I wrote for myself:
 
 <div align="center">
 
-[![homelab-cluster](https://github-readme-stats.vercel.app/api/pin/?username=Costel03&repo=homelab-cluster&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=cdd9e5&icon_color=58a6ff)](https://github.com/Costel03/homelab-cluster)
-[![homelab-gitops](https://github-readme-stats.vercel.app/api/pin/?username=Costel03&repo=homelab-gitops&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=cdd9e5&icon_color=58a6ff)](https://github.com/Costel03/homelab-gitops)
+[![homelab-cluster](https://github-readme-stats-git-master-rickstaa.vercel.app/api/pin/?username=Costel03&repo=homelab-cluster&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=cdd9e5&icon_color=58a6ff)](https://github.com/Costel03/homelab-cluster)
+[![homelab-gitops](https://github-readme-stats-git-master-rickstaa.vercel.app/api/pin/?username=Costel03&repo=homelab-gitops&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=cdd9e5&icon_color=58a6ff)](https://github.com/Costel03/homelab-gitops)
 
-[![aws-kubernetes-automation](https://github-readme-stats.vercel.app/api/pin/?username=Costel03&repo=aws-kubernetes-automation&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=cdd9e5&icon_color=58a6ff)](https://github.com/Costel03/aws-kubernetes-automation)
-[![Ansible-demo](https://github-readme-stats.vercel.app/api/pin/?username=Costel03&repo=Ansible-demo&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=cdd9e5&icon_color=58a6ff)](https://github.com/Costel03/Ansible-demo)
+[![aws-kubernetes-automation](https://github-readme-stats-git-master-rickstaa.vercel.app/api/pin/?username=Costel03&repo=aws-kubernetes-automation&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=cdd9e5&icon_color=58a6ff)](https://github.com/Costel03/aws-kubernetes-automation)
+[![Ansible-demo](https://github-readme-stats-git-master-rickstaa.vercel.app/api/pin/?username=Costel03&repo=Ansible-demo&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=cdd9e5&icon_color=58a6ff)](https://github.com/Costel03/Ansible-demo)
 
-[![Costel.I-UTM-Info-ID](https://github-readme-stats.vercel.app/api/pin/?username=Costel03&repo=Costel.I-UTM-Info-ID&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=cdd9e5&icon_color=58a6ff)](https://github.com/Costel03/Costel.I-UTM-Info-ID)
+[![Costel.I-UTM-Info-ID](https://github-readme-stats-git-master-rickstaa.vercel.app/api/pin/?username=Costel03&repo=Costel.I-UTM-Info-ID&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=cdd9e5&icon_color=58a6ff)](https://github.com/Costel03/Costel.I-UTM-Info-ID)
 
 </div>
 
@@ -119,12 +122,13 @@ And a teaching tool I wrote for myself:
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Costel03&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=cdd9e5" alt="GitHub Stats"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Costel03&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=cdd9e5&langs_count=8" alt="Top Languages"/>
+<img height="165em" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=Costel03&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=cdd9e5" alt="GitHub Stats"/>
+<img height="165em" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=Costel03&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=cdd9e5&langs_count=8" alt="Top Languages"/>
 
 <img src="https://streak-stats.demolab.com/?user=Costel03&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak"/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Costel03&theme=github-compact&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Costel03&theme=github_dark" alt="Repos per Language"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Costel03&theme=github_dark&utcOffset=3" alt="Productive Time"/>
 
 </div>
 
