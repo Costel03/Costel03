@@ -56,9 +56,19 @@ A self-hosted Kubernetes homelab, split the way a real platform is:
 
 Not everything lives on GitHub. At work I built an **RKE2** cluster from scratch with **mixed Linux and Windows node pools** — Windows workers rule out a default install: they need their own container runtime, a CNI that supports them, and per-OS scheduling so workloads land on the right nodes.
 
-And a teaching tool I wrote for myself:
+---
 
-**[`linux-curs-interactiv.sh`](https://github.com/Costel03/Costel.I-UTM-Info-ID/blob/Anul-II/Anul%20I/Semestrul%20II/Sisteme%20de%20operare/Teme/linux-curs-interactiv.sh)** — an interactive Bash script for practising Linux commands, built on the **InfoAcademy Linux** course (chapters 3–8, 12, 13). Menu-driven: each chapter gives the theory, then you run the commands yourself and see the output framed with its exit code. Covers the filesystem, users and permissions, processes and signals, shell scripting, package management, networking, Postfix and chrony.
+## 📚 Learning & Teaching
+
+### Interactive Linux trainer
+
+**[`linux-curs-interactiv.sh`](https://github.com/Costel03/Costel.I-UTM-Info-ID/blob/Anul-II/Anul%20I/Semestrul%20II/Sisteme%20de%20operare/Teme/linux-curs-interactiv.sh)** — a 950-line Bash script that teaches Linux by making you run the commands, not read about them. Built on the **InfoAcademy Linux** course, chapters 3–8, 12 and 13.
+
+Pick a chapter, read the theory, then run each command and see its output framed with the exit code — or type your own. Covers the filesystem, users and permissions, processes and signals, shell scripting, package management, networking, Postfix and chrony. It builds its own scratch directory under `/tmp` and cleans up on exit, so nothing it demonstrates touches your real system.
+
+### University coursework
+
+**[Costel.I-UTM-Info-ID](https://github.com/Costel03/Costel.I-UTM-Info-ID)** — notes, labs and assignments from the Informatică ID programme at UTM, organised by year and semester. Where the Linux trainer above lives.
 
 ---
 
