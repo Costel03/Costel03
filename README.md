@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.svg" alt="Costel I. — DevOps & Cloud" width="860" />
+<img src="banner.svg" alt="Costel I. — DevOps Engineer" width="860" />
 
 <br/>
 
@@ -28,7 +28,7 @@
 name:      "Costel I."
 location:  "Bucharest, RO"
 education: "UTM — Informatica ID"
-role:      "DevOps & Cloud"
+role:      "DevOps Engineer"
 focus:
   - "Kubernetes & GitOps"
   - "Infrastructure as Code"
