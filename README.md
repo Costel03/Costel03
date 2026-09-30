@@ -35,10 +35,28 @@ focus:
   - "CI/CD pipelines"
   - "Observability & secrets management"
 currently_learning:
+  - "CKA — Certified Kubernetes Administrator"
   - "Platform engineering patterns"
   - "Terraform & AWS at scale"
 fun_fact:  "I automate everything — including my free time 🤖"
 ```
+
+---
+
+## 🧪 What I'm Building
+
+A self-hosted Kubernetes homelab, split the way a real platform is:
+
+| Layer | Repo | What lives there |
+|---|---|---|
+| **Bootstrap** | [homelab-cluster](https://github.com/Costel03/homelab-cluster) | VirtualBox VMs + kubeadm, MetalLB and Argo CD — the pieces GitOps cannot install for itself |
+| **GitOps** | [homelab-gitops](https://github.com/Costel03/homelab-gitops) | Everything Argo CD syncs: ingress, monitoring, Vault, ESO, cert-manager — one directory per tool |
+| **Cloud** | [aws-kubernetes-automation](https://github.com/Costel03/aws-kubernetes-automation) | The same cluster story on AWS, with Terraform + Ansible |
+| **Config mgmt** | [Ansible-demo](https://github.com/Costel03/Ansible-demo) | LAMP + WordPress + NFS across four Vagrant VMs |
+
+And a teaching tool I wrote for myself:
+
+**[`linux-curs-interactiv.sh`](https://github.com/Costel03/Costel.I-UTM-Info-ID/blob/Anul-II/Anul%20I/Semestrul%20II/Sisteme%20de%20operare/Teme/linux-curs-interactiv.sh)** — an interactive Bash script for practising Linux commands, built on the **InfoAcademy Linux** course (chapters 3–8, 12, 13). Menu-driven: each chapter gives the theory, then you run the commands yourself and see the output framed with its exit code. Covers the filesystem, users and permissions, processes and signals, shell scripting, package management, networking, Postfix and chrony.
 
 ---
 
@@ -82,23 +100,6 @@ fun_fact:  "I automate everything — including my free time 🤖"
 ![RHEL](https://img.shields.io/badge/RHEL%20%2F%20CentOS-4A5568?style=flat-square&logo=redhat&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4A5568?style=flat-square&logo=postgresql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-4A5568?style=flat-square&logo=mariadb&logoColor=white)
-
----
-
-## 🧪 What I'm Building
-
-A self-hosted Kubernetes homelab, split the way a real platform is:
-
-| Layer | Repo | What lives there |
-|---|---|---|
-| **Bootstrap** | [homelab-cluster](https://github.com/Costel03/homelab-cluster) | VirtualBox VMs + kubeadm, MetalLB and Argo CD — the pieces GitOps cannot install for itself |
-| **GitOps** | [homelab-gitops](https://github.com/Costel03/homelab-gitops) | Everything Argo CD syncs: ingress, monitoring, Vault, ESO, cert-manager — one directory per tool |
-| **Cloud** | [aws-kubernetes-automation](https://github.com/Costel03/aws-kubernetes-automation) | The same cluster story on AWS, with Terraform + Ansible |
-| **Config mgmt** | [Ansible-demo](https://github.com/Costel03/Ansible-demo) | LAMP + WordPress + NFS across four Vagrant VMs |
-
-And a teaching tool I wrote for myself:
-
-**[`linux-curs-interactiv.sh`](https://github.com/Costel03/Costel.I-UTM-Info-ID/blob/Anul-II/Anul%20I/Semestrul%20II/Sisteme%20de%20operare/Teme/linux-curs-interactiv.sh)** — an interactive Bash script for practising Linux commands, built on the **InfoAcademy Linux** course (chapters 3–8, 12, 13). Menu-driven: each chapter gives the theory, then you run the commands yourself and see the output framed with its exit code. Covers the filesystem, users and permissions, processes and signals, shell scripting, package management, networking, Postfix and chrony.
 
 ---
 
